@@ -10,9 +10,8 @@ This project combines my interests in technology and the humanities, demonstrati
 ### Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
-
+- CSS
+- 
 ### Key Features
 
 Interactive navigation between different sections of the Ramayana
