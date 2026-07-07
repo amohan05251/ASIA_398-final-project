@@ -7,11 +7,12 @@ The website explores the Ramayana, one of India's most influential epics, by pre
 
 This project combines my interests in technology and the humanities, demonstrating how web development can be used as a medium for storytelling and education. It also reflects my ability to apply technical skills to communicate complex cultural and historical concepts in an accessible and creative way.
 
+Live Website: https://amohan05251.github.io/ASIA_398-final-project/
 ### Technologies Used
 
 - HTML5
 - CSS
-- 
+ 
 ### Key Features
 
 Interactive navigation between different sections of the Ramayana
